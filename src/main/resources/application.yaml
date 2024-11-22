@@ -1,0 +1,15 @@
+insurance:
+  japan:
+    country: "JAPAN"
+    currency: JPY
+    medicalCoefficient: 0.015
+    robberyCoefficient: 0.01
+    medicalBasePrice: 12000
+    robberyBasePrice: 10000
+  brazil:
+    country: "BRAZIL"
+    currency: "BRL"
+    medicalCoefficient: 0.03
+    robberyCoefficient: 0.05
+    medicalBasePrice: 800
+    robberyBasePrice: 300
